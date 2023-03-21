@@ -1,1 +1,40 @@
-/* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+  }
+  .tag-1 {position:absolute;
+          width:0;
+          height:0;
+          font-family:none;
+          z-index:0;
+          top:0;
+          left:0;
+          background:none;
+          
+         }
+
+  #tag-2 {position:absolute;
+        width:0;
+        height:0;
+        font-family:none;
+        z-index:0;
+        top:0;
+        left:0;
+        background:none;
+
+         }
+
+   #tag-3 {position:absolute;
+    width:0;
+    height:0;
+    font-family:none;
+    z-index:0;
+    top:0;
+    left:0;
+    background:none;
+
+  }
+  
+ #tag-3 .parent {
+    display: none;}
+    
